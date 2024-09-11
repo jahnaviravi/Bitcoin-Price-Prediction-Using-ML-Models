@@ -1,4 +1,4 @@
-Conclusions
+
 1. Bitcoin price prediction using machine learning models remains a challenging task due to the high volatility and unpredictable nature of cryptocurrency markets.
 
 2. The logistic regression and random forest classification models demonstrated modest predictive capabilities, correctly classifying around 55% of the instances in the test set. However, their performance in predicting price decreases (class -1) was poor, with low precision, recall, and F1-scores.
